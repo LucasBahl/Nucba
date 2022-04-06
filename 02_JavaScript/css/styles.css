@@ -799,3 +799,8 @@ textarea {
 #ej01-body {
     background-color: #ede3e9;
 }
+
+#logo {
+    font-family: 'Pacifico', cursive;
+    font-size: 2.8rem;
+}
