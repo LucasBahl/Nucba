@@ -804,3 +804,20 @@ textarea {
     font-family: 'Pacifico', cursive;
     font-size: 2.8rem;
 }
+
+
+/* BACKGROUND */
+
+#landing-h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 4rem;
+}
+#landing-h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    margin-top: 1rem;
+}
+#landing-p {
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
