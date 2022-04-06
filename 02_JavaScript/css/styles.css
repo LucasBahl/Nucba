@@ -817,7 +817,7 @@ textarea {
     font-size: 3rem;
     margin-top: 1rem;
 }
-#landing-p {
-    margin-top: 1rem;
-    margin-left: 2rem;
+#landing-p {font-size: 1.5rem;
+    margin-top: 2rem;
+    font-family: 'Grape Nuts', cursive;
 }
