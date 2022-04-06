@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+
+/*body {
+    background-color: lightyellow;
+    background-image: url("https://images.photolamus.com/jZMw2qfg/463x463/c/m/dab7741da25bdf82dc2fd82adf5865bf/full-body-dachshund-portrait-in-colorful-watercolor-from-photos.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed;
+}
+
+.remove-bg {
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    align-items: right;
+}*/
+
+body {
+    background-image: linear-gradient(70deg, white, pink);
+}
+
+h1, h2, h3, p {
+    padding: 50px;
+    margin-top: 10px;
+    background-color: darkgoldenrod;
+}
+
+h1, .claseDos {
+    font-size: 40px;
+}
+
+.perritoSalchica {
+    background-color: maroon;
+}
+
+#perritoSalchica {
+    background-color: crimson;
+}
