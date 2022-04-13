@@ -1,0 +1,43 @@
+/* EXERCISE 01 */
+
+.title {
+    margin-left: 1rem;
+}
+
+.cv-container {
+    margin-left: 1rem;
+}
+
+.cv-container span {
+    font-weight: bold;
+}
+
+
+/* EXERCISE 02 */
+
+#ex-02 {
+    margin-left: 0.5rem;
+}
+
+#ex-02 h1 {
+    font-size: 2.5rem;
+}
+
+.howToConnect ul li{
+    list-style: none;
+}
+
+.howToConnect ol {
+    list-style: none;
+}
+
+/* EXERCISE 03 */
+
+
+
+.div {
+    margin-bottom: 1rem;
+}
+
+
+
